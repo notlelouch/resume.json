@@ -1,0 +1,96 @@
+{
+    "basics": {
+        "name": "Aryan Pandey",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/108780540?s=400&u=fa629b69f3e6e9a8628e538d52c919a683fd2061&v=4",
+        "email": "2021kucp1083@iiitkota.ac.in",
+        "phone": "+919981418999",
+        "website": "https://thegauravparmar.com",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Bhopal",
+            "postalCode": "462016",
+            "city": "Bhopal",
+            "countryCode": " India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "notlelouchvb",
+                "url": "https://twitter.com/notlelouchvb"
+            },
+            {
+                "network": "Github",
+                "username": "notlelouch",
+                "url": "https://github.com/notlelouch"
+            },
+            {
+                "network": "linkedin",
+                "username": "notlelouch",
+                "url": "https://www.linkedin.com/in/aryan-pandey-210b0522b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "_aryanpandey_",
+                "url": "https://instagram.com/aryanpandey"
+            }
+        ]
+    },
+    "work": [
+        
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            
+        }
+    ],
+    "publications": [
+        {
+            
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Git",
+                "C/C++",
+                "Java",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Basketball",
+            "keywords": [
+                "ball"
+            ]
+        }
+        
+    ]
+}
