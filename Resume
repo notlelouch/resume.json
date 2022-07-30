@@ -5,8 +5,8 @@
         "picture": "https://avatars.githubusercontent.com/u/108780540?s=400&u=fa629b69f3e6e9a8628e538d52c919a683fd2061&v=4",
         "email": "2021kucp1083@iiitkota.ac.in",
         "phone": "+919981418999",
-        "website": "https://thegauravparmar.com",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp, DApp. I have enthusiasm in Full Stack development as well as BlockChain Development",
         "location": {
             "address": "Bhopal",
             "postalCode": "462016",
@@ -73,7 +73,6 @@
                 "Javascript",
                 "Git",
                 "C/C++",
-                "Java",
                 "Python"
             ]
         }
